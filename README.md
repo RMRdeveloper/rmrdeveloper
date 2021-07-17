@@ -12,8 +12,7 @@ He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo de
 
 ### 💻Experiencia
 
-**OKAERY - 2020:Actualidad**
-
+**OKAERY - 2020:Actualidad**  
 ***Desarrollador Web***
 - Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
 
