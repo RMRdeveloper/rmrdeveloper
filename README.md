@@ -16,3 +16,9 @@ Una de las lecciones profesionales que siempre aplico es la adaptación a los ca
 
 *Desarrollador Web*
 - Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
+
+### 📚Educación
+
+*2017-2021*  
+Actividades y asociaciones: Estuve en el Equipo de Comunicación(EDC) como Encargado de Desarollo.  
+Preparatoria Técnica en: Diseño, Desarrollo y Gestión de Aplicaciones. Diseño y Desarrollo de Bases de Datos. Diseño de Reportes. Diseño y Programación Web.
