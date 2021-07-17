@@ -12,8 +12,7 @@ Una de las lecciones profesionales que siempre aplico es la adaptación a los ca
 
 ### Experiencia
 
-#### Necodt - 2021
+*Necodt - 2021*
 
-
-#### OKAERY - 2020
+*OKAERY - 2020*
 Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
