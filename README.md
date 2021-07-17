@@ -70,7 +70,7 @@ Preparatoria Técnica en:
 🔗[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
 
 ---
-### 👨‍💻Aptitudes y/o Conocimientos
+### 👨‍💻Aptitudes
 
 - HTML
 - CSS
