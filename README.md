@@ -1,3 +1,5 @@
+![Image Cover](https://media-exp3.licdn.com/dms/image/C4E16AQEuBbXsj9xz7Q/profile-displaybackgroundimage-shrink_200_800/0/1616187612768?e=1631750400&v=beta&t=3d1pzmg0XFhSN1paW_McaNFe0VFFBe-L9FbCclBVISg)
+
 ## RONALD MORENO RODRÍGUEZ
 
 Programador Web | Especializado en: HTML, CSS (BEM, SASS), JavaScript (Ajax, jQuery, ECMAScript 6+), MongoDB, NodeJS, VueJS, ExpressJS, Socket.IO, APIs Rest, DRY, SRP.
@@ -62,6 +64,7 @@ Preparatoria Técnica en:
 ***Expedición: Noviembre 2017***  
 #️⃣ID del Credencial: 1014-4651643  
 🔗[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
+
 ---
 ### 👨‍💻Aptitudes y/o Conocimientos
 
