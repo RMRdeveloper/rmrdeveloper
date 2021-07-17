@@ -18,8 +18,7 @@ He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo de
 
 ### 📚Educación  
 
-**Liceo Técnico Hermana Rosario Torres Fe y Alegría**  
-***2017-2021***  
+**Liceo Técnico Hermana Rosario Torres Fe y Alegría - 2017:2021**  
 Actividades y asociaciones: Estuve en el Equipo de Comunicación(EDC) como Encargado de Desarollo.  
 Preparatoria Técnica en:  
 - Diseño, Desarrollo y Gestión de Aplicaciones.
@@ -38,3 +37,28 @@ Preparatoria Técnica en:
 ***Expedición: Mayo 2020***  
 ID del Credencial: fop9q8ifg  
 [Ver credencial](https://capacitateparaelempleo.org/verifica/fop9q8ifg/)
+
+**JavaScript Course**  
+***Expedición: Mayo 2020***  
+ID del Credencial: 1024-46516443  
+[Ver credencial](https://www.sololearn.com/Certificate/1024-46516443/jpg/)
+
+**PHP Course**  
+***Expedición: Mayo 2020***  
+ID del Credencial: 1059-4651643  
+[Ver credencial](https://www.sololearn.com/Certificate/1059-4651643/jpg/)
+
+**jQuery Course**  
+***Expedición: Mayo 2020***  
+ID del Credencial: 1082-4651643  
+[Ver credencial](https://www.sololearn.com/Certificate/1082-4651643/jpg/)
+
+**CSS Course**  
+***Expedición: Noviembre 2017***  
+ID del Credencial: 1023-4651643  
+[Ver credencial](https://www.sololearn.com/Certificate/1023-4651643/jpg/)
+
+**HTML Course**  
+***Expedición: Noviembre 2017***  
+ID del Credencial: 1014-4651643  
+[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
