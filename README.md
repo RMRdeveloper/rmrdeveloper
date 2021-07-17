@@ -31,34 +31,36 @@ Preparatoria Técnica en:
 
 **SAC Software - Desarrollo de Software**  
 ***Expedición: Septiembre 2020***  
-[Ver credencial](https://drive.google.com/file/d/1BbsiWK9jRSkXfXA5uQMQ3OwYEzzzhuty/view)
+🔗[Ver credencial](https://drive.google.com/file/d/1BbsiWK9jRSkXfXA5uQMQ3OwYEzzzhuty/view)
 
 **Desarrollador Front-End**  
 ***Expedición: Mayo 2020***  
-ID del Credencial: fop9q8ifg  
-[Ver credencial](https://capacitateparaelempleo.org/verifica/fop9q8ifg/)
+#️⃣ID del Credencial: fop9q8ifg  
+🔗[Ver credencial](https://capacitateparaelempleo.org/verifica/fop9q8ifg/)
 
 **JavaScript Course**  
 ***Expedición: Mayo 2020***  
-ID del Credencial: 1024-46516443  
-[Ver credencial](https://www.sololearn.com/Certificate/1024-46516443/jpg/)
+#️⃣ID del Credencial: 1024-46516443  
+🔗[Ver credencial](https://www.sololearn.com/Certificate/1024-46516443/jpg/)
 
 **PHP Course**  
 ***Expedición: Mayo 2020***  
-ID del Credencial: 1059-4651643  
-[Ver credencial](https://www.sololearn.com/Certificate/1059-4651643/jpg/)
+#️⃣ID del Credencial: 1059-4651643  
+🔗[Ver credencial](https://www.sololearn.com/Certificate/1059-4651643/jpg/)
 
 **jQuery Course**  
 ***Expedición: Mayo 2020***  
-ID del Credencial: 1082-4651643  
-[Ver credencial](https://www.sololearn.com/Certificate/1082-4651643/jpg/)
+#️⃣ID del Credencial: 1082-4651643  
+🔗[Ver credencial](https://www.sololearn.com/Certificate/1082-4651643/jpg/)
 
 **CSS Course**  
 ***Expedición: Noviembre 2017***  
-ID del Credencial: 1023-4651643  
-[Ver credencial](https://www.sololearn.com/Certificate/1023-4651643/jpg/)
+#️⃣ID del Credencial: 1023-4651643  
+🔗[Ver credencial](https://www.sololearn.com/Certificate/1023-4651643/jpg/)
 
 **HTML Course**  
 ***Expedición: Noviembre 2017***  
-ID del Credencial: 1014-4651643  
-[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
+#️⃣ID del Credencial: 1014-4651643  
+🔗[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
+
+### Aptitudes y/o Conocimientos
