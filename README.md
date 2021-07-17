@@ -1,4 +1,4 @@
-## Ronald Moreno Rodríguez
+## RONALD MORENO RODRÍGUEZ
 
 Programador Web | Especializado en: HTML, CSS (BEM, SASS), JavaScript (Ajax, jQuery, ECMAScript 6+), MongoDB, NodeJS, VueJS, ExpressJS, Socket.IO, APIs Rest, DRY, SRP.
 
@@ -8,13 +8,13 @@ Me decidí por mi vocación por la programación de manera autodidacta cuando er
 
 He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo del tiempo; dichas habilidades me han hecho crecer tanto técnica como éticamente.
 
-Una de las lecciones profesionales que siempre aplico es la adaptación a los cambios, ya que en mi vida profesional la innovación es parte de mi cosmovisión.
+> Una de las lecciones profesionales que siempre aplico es la adaptación a los cambios, ya que en mi vida profesional la innovación es parte de mi cosmovisión.
 
 ### 💻Experiencia
 
-**OKAERY - 2020**
+**OKAERY - 2020:Actualidad**
 
-*Desarrollador Web*
+***Desarrollador Web***
 - Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
 
 ### 📚Educación
@@ -26,3 +26,14 @@ Preparatoria Técnica en:
 - Diseño y Desarrollo de Bases de Datos.
 - Diseño de Reportes.
 - Diseño y Programación Web.
+
+### 🧾Licencias y Certificaciones
+
+**SAC Software - Desarrollo de Software**  
+***Expedición: Septiembre 2020***  
+[Ver credencial](https://drive.google.com/file/d/1BbsiWK9jRSkXfXA5uQMQ3OwYEzzzhuty/view)
+
+**Desarrollador Front-End**  
+***Expedición: Mayo 2020***  
+ID del Credencial: fop9q8ifg  
+[Ver credencial](https://capacitateparaelempleo.org/verifica/fop9q8ifg/)
