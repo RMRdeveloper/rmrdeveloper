@@ -9,3 +9,11 @@ Me decidí por mi vocación por la programación de manera autodidacta cuando er
 He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo del tiempo; dichas habilidades me han hecho crecer tanto técnica como éticamente.
 
 Una de las lecciones profesionales que siempre aplico es la adaptación a los cambios, ya que en mi vida profesional la innovación es parte de mi cosmovisión.
+
+### Experiencia
+
+#### Necodt - 2021
+
+
+#### OKAERY - 2020
+Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
