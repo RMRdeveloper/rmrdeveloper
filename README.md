@@ -63,4 +63,22 @@ Preparatoria Técnica en:
 #️⃣ID del Credencial: 1014-4651643  
 🔗[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
 
-### Aptitudes y/o Conocimientos
+### 👨‍💻Aptitudes y/o Conocimientos
+
+- HTML
+- CSS
+- jQuery
+- JavaScript (ECMAScript 6+)
+- Ajax
+- PHP
+- MongoDB
+- VueJS
+- ExpressJS
+---
+### 📔Conocimientos del Sector
+
+- Programación Orientada a Objetos (POO)
+- Desarrollo Front-End
+- Desarrollo Back-End
+- Desarrollo de Software
+- APIs Rest
