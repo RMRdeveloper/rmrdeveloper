@@ -17,8 +17,9 @@ He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo de
 ***Desarrollador Web***
 - Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
 
-### 📚Educación
+### 📚Educación  
 
+**Liceo Técnico Hermana Rosario Torres Fe y Alegría**  
 ***2017-2021***  
 Actividades y asociaciones: Estuve en el Equipo de Comunicación(EDC) como Encargado de Desarollo.  
 Preparatoria Técnica en:  
@@ -27,7 +28,8 @@ Preparatoria Técnica en:
 - Diseño de Reportes.
 - Diseño y Programación Web.
 
-### 🧾Licencias y Certificaciones
+### 🧾Licencias y Certificaciones  
+
 
 **SAC Software - Desarrollo de Software**  
 ***Expedición: Septiembre 2020***  
