@@ -1,5 +1,4 @@
 ## RONALD MORENO RODRÍGUEZ
-**CEO: [@crossforttechnology](https://www.instagram.com/crossforttechnology/)**
 > "Menos, pero mejor".
 
 Programador Web | Especializado en: HTML, CSS (BEM, SASS), JavaScript (Ajax, jQuery, ECMAScript 6+), MongoDB, NodeJS, VueJS, ExpressJS, Socket.IO, APIs Rest, DRY, SRP.
