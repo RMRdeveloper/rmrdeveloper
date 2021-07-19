@@ -14,12 +14,12 @@ He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo de
 ---
 ### 💻Experiencia
 
-**Necodt - 2021:Actualidad**  
+**Necodt.com - 2021:Actualidad**  
 ***Desarrollador Web - Colaboradar***
 - Desarrollo sitios web en colaboración con el equipo de trabajo.
 
-**OKAERY - 2020:Actualidad**  
-***Desarrollador Web***
+**Okaery.com - 2020:Actualidad**  
+***Desarrollador Web - Colaborador***
 - Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
 
 ### 📚Educación  
