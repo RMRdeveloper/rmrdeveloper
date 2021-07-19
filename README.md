@@ -1,4 +1,5 @@
 ## RONALD MORENO RODRÍGUEZ
+[Perfil de LinkedIn](https://www.linkedin.com/in/rmrdeveloper/)
 > "Menos, pero mejor".
 
 Programador Web | Especializado en: HTML, CSS (BEM, SASS), JavaScript (Ajax, jQuery, ECMAScript 6+), MongoDB, NodeJS, VueJS, ExpressJS, Socket.IO, APIs Rest, DRY, SRP.
