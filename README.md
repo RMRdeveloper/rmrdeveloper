@@ -15,7 +15,7 @@ He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo de
 ---
 ### 💻Experiencia
 
-**Necodt.com - 2021:Actualidad**  
+**Necodt.com - 2021:2022**  
 ***Desarrollador Web - Colaboradar***
 - Desarrollo sitios web en colaboración con el equipo de trabajo.
 
