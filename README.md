@@ -15,13 +15,18 @@ He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo de
 ---
 ### 💻Experiencia
 
-**Necodt.com - 2021:2022**  
-***Desarrollador Web - Colaboradar***
-- Desarrollo sitios web en colaboración con el equipo de trabajo.
+**Geotrack Solutions International - 2022:Actualidad**  
+***Analista Programador Web***
+- Encargado de Aplicación Web Administrativa, ForceSOS.
+- Programador Auxiliar de Aplicación Web, Control Center.
 
 **Okaery.com - 2020:Actualidad**  
 ***Desarrollador Web - Colaborador***
 - Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
+
+**Necodt.com - 2021:2022**  
+***Desarrollador Web - Colaboradar***
+- Desarrollo sitios web en colaboración con el equipo de trabajo.
 
 ### 📚Educación  
 
