@@ -118,14 +118,6 @@ Bachillerato Técnico en Desarrollo de Software · *(2017 – 2021)*
 * **jQuery Course** – SoloLearn *(Mayo 2020)*
   🔗 [https://www.sololearn.com/Certificate/1082-4651643/jpg/](https://www.sololearn.com/Certificate/1082-4651643/jpg/)
 
-* **Introducción al Desarrollo de Software**
-
-* **Desarrollador Front-End**
-
-* **CSS Course** – SoloLearn
-
-* **jQuery Course** – SoloLearn
-
 ---
 
 ### 🌍 Idiomas
