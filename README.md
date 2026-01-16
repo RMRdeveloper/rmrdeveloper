@@ -40,7 +40,7 @@ He trabajado en **entornos dinámicos y multiculturales**, participando activame
 * Diseño e implementación de **APIs RESTful** usando **Laravel, Symfony y Java (Spring Boot, WebFlux)**.
 
 **CrossFort Technology** · *Abr 2022 – Actualidad*
-**Co-Founder & Tech Lead**
+**Co‑Founder & Tech Lead**
 Startup enfocada en soluciones **SaaS** para micro y medianas empresas.
 
 Productos:
@@ -98,6 +98,33 @@ Bachillerato Técnico en Desarrollo de Software · *(2017 – 2021)*
 * WebSockets
 * APIs REST
 * Jenkins
+
+---
+
+### 📜 Certificaciones
+
+* **JavaScript Course** – SoloLearn *(Mayo 2020)*
+  🔗 [https://www.sololearn.com/Certificate/1024-46516443/jpg/](https://www.sololearn.com/Certificate/1024-46516443/jpg/)
+
+* **Introducción al Desarrollo de Software** – SAC Software *(Septiembre 2020)*
+  🔗 [https://drive.google.com/file/d/1BbsiWK9jRSkXfXA5uQMQ3OwYEzzzhuty/view](https://drive.google.com/file/d/1BbsiWK9jRSkXfXA5uQMQ3OwYEzzzhuty/view)
+
+* **Desarrollador Front-End** – Capacítate para el Empleo *(Mayo 2020)*
+  🔗 [https://capacitateparaelempleo.org/verifica/fop9q8ifg/](https://capacitateparaelempleo.org/verifica/fop9q8ifg/)
+
+* **CSS Course** – SoloLearn *(Noviembre 2017)*
+  🔗 [https://www.sololearn.com/Certificate/1023-4651643/jpg/](https://www.sololearn.com/Certificate/1023-4651643/jpg/)
+
+* **jQuery Course** – SoloLearn *(Mayo 2020)*
+  🔗 [https://www.sololearn.com/Certificate/1082-4651643/jpg/](https://www.sololearn.com/Certificate/1082-4651643/jpg/)
+
+* **Introducción al Desarrollo de Software**
+
+* **Desarrollador Front-End**
+
+* **CSS Course** – SoloLearn
+
+* **jQuery Course** – SoloLearn
 
 ---
 
