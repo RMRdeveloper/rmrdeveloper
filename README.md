@@ -1,96 +1,111 @@
-## RONALD MORENO RODRÍGUEZ
-[Perfil de LinkedIn](https://www.linkedin.com/in/rmrdeveloper/)
-> "Menos, pero mejor".
+## 👋 Ronald Moreno Rodríguez
 
-Programador Web | Especializado en: HTML, CSS (BEM, SASS), JavaScript (Ajax, jQuery, ECMAScript 6+), MongoDB, NodeJS, VueJS, ExpressJS, Socket.IO, APIs Rest.
+[LinkedIn](https://www.linkedin.com/in/rmrdeveloper/) · Santo Domingo, República Dominicana
 
----
-### 🧍Sobre mí
+> *“Menos, pero mejor.”*
 
-Me decidí por mi vocación por la programación de manera autodidacta cuando era apenas un joven de 13 años, en mi trayectoria he sido muy versátil desde el apartado lógico del software hasta implementar ideas creativas en el diseño de mis aplicaciones.
+### 🚀 Senior Software Developer | +5 años Full Stack
 
-He destacado en varios equipos de trabajo por mi optimismo, empatía y manejo del tiempo; dichas habilidades me han hecho crecer tanto técnica como éticamente.
+Desarrollador de software con más de **5 años de experiencia profesional**, especializado en **arquitecturas full stack**, aplicaciones web administrativas, plataformas SaaS y sistemas en tiempo real.
 
-> Una de las lecciones profesionales que siempre aplico es la adaptación a los cambios, ya que en mi vida profesional la innovación es parte de mi cosmovisión.
----
-### 💻Experiencia
-
-**Geotrack Solutions International - 2022:Actualidad**  
-***Analista Programador Web***
-- Encargado de Aplicación Web Administrativa, ForceSOS.
-- Programador Auxiliar de Aplicación Web, Control Center.
-
-**Okaery.com - 2020:Actualidad**  
-***Desarrollador Web - Colaborador***
-- Desarrollé módulos y/o componentes visuales e interactivos para la plataforma con frameworks basados en JavaScript.
-
-**Necodt.com - 2021:2022**  
-***Desarrollador Web - Colaboradar***
-- Desarrollo sitios web en colaboración con el equipo de trabajo.
-
-### 📚Educación  
-
-**Liceo Técnico Hermana Rosario Torres Fe y Alegría - 2017:2021**  
-Actividades y asociaciones: Estuve en el Equipo de Comunicación(EDC) como Encargado de Desarollo.  
-Preparatoria Técnica en:  
-- Diseño, Desarrollo y Gestión de Aplicaciones.
-- Diseño y Desarrollo de Bases de Datos.
-- Diseño de Reportes.
-- Diseño y Programación Web.
----
-### 🧾Licencias y Certificaciones  
-
-**SAC Software - Desarrollo de Software**  
-***Expedición: Septiembre 2020***  
-🔗[Ver credencial](https://drive.google.com/file/d/1BbsiWK9jRSkXfXA5uQMQ3OwYEzzzhuty/view)
-
-**Desarrollador Front-End**  
-***Expedición: Mayo 2020***  
-#️⃣ID del Credencial: fop9q8ifg  
-🔗[Ver credencial](https://capacitateparaelempleo.org/verifica/fop9q8ifg/)
-
-**JavaScript Course**  
-***Expedición: Mayo 2020***  
-#️⃣ID del Credencial: 1024-46516443  
-🔗[Ver credencial](https://www.sololearn.com/Certificate/1024-46516443/jpg/)
-
-**PHP Course**  
-***Expedición: Mayo 2020***  
-#️⃣ID del Credencial: 1059-4651643  
-🔗[Ver credencial](https://www.sololearn.com/Certificate/1059-4651643/jpg/)
-
-**jQuery Course**  
-***Expedición: Mayo 2020***  
-#️⃣ID del Credencial: 1082-4651643  
-🔗[Ver credencial](https://www.sololearn.com/Certificate/1082-4651643/jpg/)
-
-**CSS Course**  
-***Expedición: Noviembre 2017***  
-#️⃣ID del Credencial: 1023-4651643  
-🔗[Ver credencial](https://www.sololearn.com/Certificate/1023-4651643/jpg/)
-
-**HTML Course**  
-***Expedición: Noviembre 2017***  
-#️⃣ID del Credencial: 1014-4651643  
-🔗[Ver credencial](https://www.sololearn.com/Certificate/1014-4651643/jpg/)
+**Stack destacado:**
+JavaScript (ES6+) · TypeScript · Vue.js · Node.js · PHP (Laravel, Symfony) · Java (Spring Boot, WebFlux) · Python · Docker · MongoDB · MySQL · REST APIs · WebSockets · Jenkins
 
 ---
-### 👨‍💻Aptitudes
 
-- HTML
-- CSS
-- jQuery
-- JavaScript (ECMAScript 6+)
-- Ajax
-- PHP
-- MongoDB
-- VueJS
-- ExpressJS
+### 🧍‍♂️ Sobre mí
+
+Soy desarrollador de software autodidacta desde los 13 años. Mi carrera se ha construido combinando una base sólida en **backend engineering** con una fuerte orientación al **frontend y la experiencia de usuario**, lo que me permite desarrollar soluciones robustas, escalables y bien diseñadas.
+
+He trabajado en **entornos dinámicos y multiculturales**, participando activamente en todo el ciclo de vida del software: análisis, diseño, desarrollo, despliegue y mantenimiento. Me adapto rápidamente al cambio, disfruto resolver problemas complejos y aportar valor real a los productos en los que participo.
+
+> Considero la innovación, la mejora continua y la responsabilidad técnica como pilares de mi trabajo profesional.
+
 ---
-### 📔Conocimientos del Sector
 
-- Programación Orientada a Objetos (POO)
-- Desarrollo Front-End
-- Desarrollo Back-End
-- Desarrollo de Software
-- APIs Rest
+### 💼 Experiencia Profesional
+
+**Security Force RD** · *Mayo 2025 – Actualidad*
+**Analista Programador de Aplicaciones**
+
+* Liderazgo técnico en el desarrollo y mantenimiento de la aplicación web administrativa **ForceSOS**.
+* Liderazgo en la evolución de la aplicación **Control Center**.
+* Implementación de soluciones escalables usando **PHP (Laravel), Node.js, Python, JavaScript y WebSockets**.
+* Participación en definición de arquitectura y resolución de problemas técnicos complejos.
+
+**Dynamic Specialty** · *Oct 2024 – Abr 2025*
+**Senior Full Stack PHP Developer**
+
+* Desarrollo de soluciones full stack para la industria de aseguradoras de trailers.
+* Diseño e implementación de **APIs RESTful** usando **Laravel, Symfony y Java (Spring Boot, WebFlux)**.
+
+**CrossFort Technology** · *Abr 2022 – Actualidad*
+**Co-Founder & Tech Lead**
+Startup enfocada en soluciones **SaaS** para micro y medianas empresas.
+
+Productos:
+
+* **CrossTour**: Plataforma en la nube para agencias de viajes (gestión operativa, ventas, disponibilidad en tiempo real y reportes).
+* **CrossPanel**: Sistema de facturación electrónica y gestión empresarial en la nube.
+
+Responsabilidades:
+
+* Liderazgo técnico y de proyectos.
+* Diseño de arquitectura, desarrollo full stack y toma de decisiones tecnológicas.
+
+**Security Force RD** · *May 2022 – Oct 2024*
+**Analista Programador Web Junior**
+
+* Programador principal de **ForceSOS**.
+* Programador auxiliar de **Control Center**.
+
+**OKAERY** · *Nov 2020 – May 2024*
+**Semi Senior Full Stack Developer**
+
+* Desarrollo de componentes visuales de alto rendimiento con **Vue.js**.
+* Creación de plugins internos para optimizar el flujo de desarrollo.
+* Colaboración en arquitectura frontend y buenas prácticas.
+
+**Fiverr** · *Feb 2021 – May 2022*
+**Web Developer Freelance**
+
+* Desarrollo de SPA con **Vue.js, Node.js, MongoDB y MySQL**.
+* Diseño UI/UX con **Figma y Adobe XD**.
+* Gestión directa de clientes y tiempos de entrega.
+
+---
+
+### 🎓 Educación
+
+**Universidad APEC**
+Ingeniería de Software · *(2023 – Actualidad)*
+
+**Liceo Técnico Hermana Rosario Torres – Fe y Alegría**
+Bachillerato Técnico en Desarrollo de Software · *(2017 – 2021)*
+
+---
+
+### 🧠 Aptitudes Técnicas
+
+* JavaScript / TypeScript
+* Vue.js
+* Node.js
+* PHP (Laravel, Symfony)
+* Java (Spring Boot, WebFlux)
+* Python
+* MongoDB · MySQL
+* Docker
+* WebSockets
+* APIs REST
+* Jenkins
+
+---
+
+### 🌍 Idiomas
+
+* Español: Nativo
+* Inglés: Nivel profesional intermedio
+
+---
+
+📌 *Orientado a proyectos desafiantes, liderazgo técnico y construcción de software escalable con impacto real.*
