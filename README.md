@@ -4,9 +4,9 @@
 
 > *“Menos, pero mejor.”*
 
-### 🚀 Senior Software Developer | +5 años Full Stack
+### 🚀 Senior Software Developer | +6 años Full Stack
 
-Desarrollador de software con más de **5 años de experiencia profesional**, especializado en **arquitecturas full stack**, aplicaciones web administrativas, plataformas SaaS y sistemas en tiempo real.
+Desarrollador de software con más de **6 años de experiencia profesional**, especializado en **arquitecturas full stack**, aplicaciones web administrativas, plataformas SaaS y sistemas en tiempo real.
 
 **Stack destacado:**
 JavaScript (ES6+) · TypeScript · Vue.js · Node.js · PHP (Laravel, Symfony) · Java (Spring Boot, WebFlux) · Python · Docker · MongoDB · MySQL · REST APIs · WebSockets · Jenkins
