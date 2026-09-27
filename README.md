@@ -114,6 +114,20 @@ Febrero 2021 - mayo 2022. República Dominicana.
 
 ---
 
+## Proyectos
+
+- **[FlowTorial](https://flowtorial.com/)**: extensión de Chrome que graba
+  clics en el navegador y los convierte en una demo interactiva por pasos.
+  Cada paso es una captura con su punto clicable; el editor ajusta textos,
+  puntos y orden, y quien la ve avanza pulsando el punto correcto. Sin cuenta
+  y con las capturas en tu equipo hasta que las compartes.
+- **[Sideroom Pi](https://rmrdeveloper.github.io/sideroom-pi/)**: paquete
+  global para el agente de código pi, publicado en npm como
+  `@rmrdeveloper/sideroom-pi`. Pregunta antes de suponer, muestra el avance
+  en un tablero y no deja archivos sueltos en el repositorio.
+
+---
+
 ## Educación
 
 **Universidad APEC**
